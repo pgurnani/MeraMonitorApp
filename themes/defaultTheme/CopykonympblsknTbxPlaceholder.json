@@ -1,0 +1,93 @@
+{
+    "android": {
+        "font_name": "default",
+        "font_size": 120,
+        "isForked": false
+    },
+    "androidwearos": {
+        "font_size": 120,
+        "isForked": false
+    },
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "28282826",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "desktopweb": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "fontSizeInPx": false,
+    "font_color": "9e9e9e66",
+    "font_name": "",
+    "font_size": 120,
+    "ipad": {
+        "font_name": "System",
+        "font_size": 120,
+        "isForked": false
+    },
+    "iphone": {
+        "font_name": "OpenSans-Regular",
+        "font_size": 120,
+        "isForked": false
+    },
+    "isDefaultSkin": false,
+    "kiosk": {
+        "font_name": "GenericMonospace",
+        "font_size": 120,
+        "isForked": false
+    },
+    "kuid": "sb22fe3f4f5c4c32a87e3f38957692c0",
+    "spaan": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "spaandroidtablet": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "spaip": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "spaipad": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "spawindowstablet": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "spawinphone8": {
+        "font_name": "Helvetica",
+        "font_size": 120,
+        "isForked": false
+    },
+    "tabrcandroid": {
+        "font_name": "default",
+        "font_size": 120,
+        "isForked": false
+    },
+    "wType": "TextField",
+    "watchos": {
+        "font_size": 120,
+        "isForked": false
+    },
+    "windows8": {
+        "font_name": "GenericMonospace",
+        "font_size": 120,
+        "isForked": false
+    },
+    "winphone8": {
+        "font_name": "GenericMonospace",
+        "font_size": 120,
+        "isForked": false
+    }
+}

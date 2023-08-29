@@ -1,0 +1,555 @@
+{
+    "HEAD": "w11130ca99ae436b8d8477d42fee990c",
+    "w022b57d03c9417dabcb8268a0174ed3": {
+        "extension": "js",
+        "kuid": "w022b57d03c9417dabcb8268a0174ed3",
+        "name": "chartistlegend.js",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "w062a2102ce442148a4d6c35dbe982ea": {
+        "extension": "js",
+        "kuid": "w062a2102ce442148a4d6c35dbe982ea",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "w064f1835d8b43fb802f0fcf84e8f7bd": {
+        "extension": "html",
+        "kuid": "w064f1835d8b43fb802f0fcf84e8f7bd",
+        "name": "horizontalBar.html",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    },
+    "w078c9ca95164a9c8dd8f702c01457c8": {
+        "extension": "js",
+        "kuid": "w078c9ca95164a9c8dd8f702c01457c8",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "w099a0c3d7c1427a8400df8c1ef6244d": {
+        "extension": "js",
+        "kuid": "w099a0c3d7c1427a8400df8c1ef6244d",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "w0b70931285a47189dfa19b8fd474711": {
+        "children": [
+            "wbf07ba9ca4943c0bfcbc8c31e500d55",
+            "wca685705f0d445caeee00495c642e13",
+            "wdab041d306740cdbbdb966b3db5d32f",
+            "wd477fddbbcd4825b31e26cc986b0df8",
+            "wc6048280fc84a8db37055d2f945ed8e",
+            "w75e943fc5354dad94809868db3f7ba9",
+            "waa30c429e3b4a4b848d0de0dab7c940"
+        ],
+        "kuid": "w0b70931285a47189dfa19b8fd474711",
+        "name": "Chart_donut",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w11130ca99ae436b8d8477d42fee990c": {
+        "children": [
+            "w0b70931285a47189dfa19b8fd474711",
+            "w380ba55bda448958d6bc0e12928801a",
+            "w997b1624b414c93949e069ef5068bdf",
+            "wb1e93f3954e4209bbb025c3aa92846a",
+            "w353dd57bbea4fc09a387e3117b1071b",
+            "wbe52ffa48dc41edbf7e4c66601435fb",
+            "w6b73bf07615471abe0c7305ab22bc29",
+            "w3c93ed3b22941059e45231c78639a49",
+            "w70104461d064c46821326a666e00ee7"
+        ],
+        "kuid": "w11130ca99ae436b8d8477d42fee990c",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "w1263f1e0efa40bc91a373fdbc075fb6": {
+        "extension": "css",
+        "kuid": "w1263f1e0efa40bc91a373fdbc075fb6",
+        "name": "chartistCss.css",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "w1dacdb8c29644e1a00c0f437661ecc9": {
+        "extension": "js",
+        "kuid": "w1dacdb8c29644e1a00c0f437661ecc9",
+        "name": "chartist.js",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "w22120f6814844a489897777dbed0818": {
+        "extension": "html",
+        "kuid": "w22120f6814844a489897777dbed0818",
+        "name": "horizontalBar.html",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "w26db0d2be154388adffd271b5e270ce": {
+        "extension": "css",
+        "kuid": "w26db0d2be154388adffd271b5e270ce",
+        "name": "chartitst.css",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "w31e32d5689c4c3b859e598ee87ef43e": {
+        "extension": "js",
+        "kuid": "w31e32d5689c4c3b859e598ee87ef43e",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "w353dd57bbea4fc09a387e3117b1071b": {
+        "children": [
+            "wf56344aacd24ea29337056edcaa0ee1",
+            "w5338017e48a4bf6a87ab01328ee69c9",
+            "wfb83ed0fda5498caee1f5724332157d",
+            "wf78e4f33cb246adb410a3c35633633a",
+            "w43db25ebffb4cbd8ea8472c7bdb76af",
+            "w064f1835d8b43fb802f0fcf84e8f7bd"
+        ],
+        "kuid": "w353dd57bbea4fc09a387e3117b1071b",
+        "name": "Copychartist_hbar2",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w380ba55bda448958d6bc0e12928801a": {
+        "children": [
+            "w475a107ed184606aa5c41924cee7a89",
+            "w31e32d5689c4c3b859e598ee87ef43e",
+            "w46cf0e597fb4e4ea7866915dfcb684b",
+            "wc8a588c58ea46239b6c8a77575a5ca5",
+            "wde4eb91fe4d454fb03625b04446a027",
+            "w22120f6814844a489897777dbed0818"
+        ],
+        "kuid": "w380ba55bda448958d6bc0e12928801a",
+        "name": "chartist_hbar",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w3a7afd7de4849cbb9df55d62d4e4de6": {
+        "extension": "html",
+        "kuid": "w3a7afd7de4849cbb9df55d62d4e4de6",
+        "name": "horizontalBar.html",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "w3c93ed3b22941059e45231c78639a49": {
+        "children": [
+            "w078c9ca95164a9c8dd8f702c01457c8",
+            "wcd5773a720e4c2aa763a869d73c3642",
+            "w45cecfcc84f4a30837a4594fd3b907f",
+            "w26db0d2be154388adffd271b5e270ce",
+            "w50d656360ae404eb5d7abab169bbfe1",
+            "w4729cd62d6845d187eeb6db4d887464",
+            "wc4997e45a9649d99224316cbe8c8f12"
+        ],
+        "kuid": "w3c93ed3b22941059e45231c78639a49",
+        "name": "CopyChart_donut1",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w43db25ebffb4cbd8ea8472c7bdb76af": {
+        "extension": "js",
+        "kuid": "w43db25ebffb4cbd8ea8472c7bdb76af",
+        "name": "chartist_HorizontalBar.js",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    },
+    "w45cecfcc84f4a30837a4594fd3b907f": {
+        "extension": "js",
+        "kuid": "w45cecfcc84f4a30837a4594fd3b907f",
+        "name": "chartistlegend.js",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "w46cf0e597fb4e4ea7866915dfcb684b": {
+        "extension": "js",
+        "kuid": "w46cf0e597fb4e4ea7866915dfcb684b",
+        "name": "chartist.js",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "w4729cd62d6845d187eeb6db4d887464": {
+        "extension": "js",
+        "kuid": "w4729cd62d6845d187eeb6db4d887464",
+        "name": "donut_chartist.js",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "w475a107ed184606aa5c41924cee7a89": {
+        "extension": "js",
+        "kuid": "w475a107ed184606aa5c41924cee7a89",
+        "name": "LIC.js",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "w4a4f78f527d40beb8f6f61d7d8dd8ac": {
+        "extension": "js",
+        "kuid": "w4a4f78f527d40beb8f6f61d7d8dd8ac",
+        "name": "LIC.js",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "w4f5708e9e0b4032a5bf982bc2b13fbb": {
+        "extension": "js",
+        "kuid": "w4f5708e9e0b4032a5bf982bc2b13fbb",
+        "name": "chartist.js",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "w50d656360ae404eb5d7abab169bbfe1": {
+        "extension": "html",
+        "kuid": "w50d656360ae404eb5d7abab169bbfe1",
+        "name": "donut.html",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "w5338017e48a4bf6a87ab01328ee69c9": {
+        "extension": "js",
+        "kuid": "w5338017e48a4bf6a87ab01328ee69c9",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    },
+    "w5ce5e97e0944edcab49fcc203bacde7": {
+        "extension": "js",
+        "kuid": "w5ce5e97e0944edcab49fcc203bacde7",
+        "name": "chartist.js",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "w6b73bf07615471abe0c7305ab22bc29": {
+        "children": [
+            "w9a7f2a0bb394e9fab7820943f476eeb",
+            "w5ce5e97e0944edcab49fcc203bacde7",
+            "w022b57d03c9417dabcb8268a0174ed3",
+            "w9554221bceb4c55a6ad6c9cd216d1a3",
+            "wa0a46e0c206459f883442d7243f4274",
+            "we147d5bac5f4380b35b2abdaaf8dddd",
+            "w4a4f78f527d40beb8f6f61d7d8dd8ac"
+        ],
+        "kuid": "w6b73bf07615471abe0c7305ab22bc29",
+        "name": "CopyChart_donut",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w70104461d064c46821326a666e00ee7": {
+        "children": [
+            "w062a2102ce442148a4d6c35dbe982ea",
+            "w4f5708e9e0b4032a5bf982bc2b13fbb",
+            "wd4fa1923f2241cda7e3498d1371d1c2",
+            "w9c2e801115043bb9520ff1dae6dcdc6",
+            "w8207d1446f0414f8cd8757c71d83a96",
+            "w93ec32e20f04ed89530e9bf73c4c4d0",
+            "w715aceb332f4dd881a4617fd4aae28d"
+        ],
+        "kuid": "w70104461d064c46821326a666e00ee7",
+        "name": "CopyChart_donut2",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w715aceb332f4dd881a4617fd4aae28d": {
+        "extension": "js",
+        "kuid": "w715aceb332f4dd881a4617fd4aae28d",
+        "name": "LIC.js",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "w745156c329d45459ba3f45d7668de01": {
+        "extension": "js",
+        "kuid": "w745156c329d45459ba3f45d7668de01",
+        "name": "LIC.js",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "w749ec41b92b41fa9cd18f82c795a6d2": {
+        "extension": "js",
+        "kuid": "w749ec41b92b41fa9cd18f82c795a6d2",
+        "name": "chartist.js",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "w75e943fc5354dad94809868db3f7ba9": {
+        "extension": "js",
+        "kuid": "w75e943fc5354dad94809868db3f7ba9",
+        "name": "donut_chartist.js",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "w7f4efc9857743638718c98453709199": {
+        "extension": "js",
+        "kuid": "w7f4efc9857743638718c98453709199",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "w8207d1446f0414f8cd8757c71d83a96": {
+        "extension": "html",
+        "kuid": "w8207d1446f0414f8cd8757c71d83a96",
+        "name": "donut.html",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "w83cb11ba4a843ae958bcfea98846c4a": {
+        "extension": "js",
+        "kuid": "w83cb11ba4a843ae958bcfea98846c4a",
+        "name": "LIC.js",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "w874ea2839194bf1aa949abe1871b982": {
+        "extension": "js",
+        "kuid": "w874ea2839194bf1aa949abe1871b982",
+        "name": "LIC.js",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "w8acbffeb36145ca8911d107bbd1d042": {
+        "extension": "js",
+        "kuid": "w8acbffeb36145ca8911d107bbd1d042",
+        "name": "chartist_HorizontalBar.js",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "w93cc3d9450c42c3af1a1186813a49b5": {
+        "extension": "css",
+        "kuid": "w93cc3d9450c42c3af1a1186813a49b5",
+        "name": "chartistCss.css",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "w93ec32e20f04ed89530e9bf73c4c4d0": {
+        "extension": "js",
+        "kuid": "w93ec32e20f04ed89530e9bf73c4c4d0",
+        "name": "donut_chartist.js",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "w9554221bceb4c55a6ad6c9cd216d1a3": {
+        "extension": "css",
+        "kuid": "w9554221bceb4c55a6ad6c9cd216d1a3",
+        "name": "chartitst.css",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "w997b1624b414c93949e069ef5068bdf": {
+        "children": [
+            "w874ea2839194bf1aa949abe1871b982",
+            "w7f4efc9857743638718c98453709199",
+            "wda3857d06b3462ea3dac2cef72fe0b3",
+            "w1263f1e0efa40bc91a373fdbc075fb6",
+            "w8acbffeb36145ca8911d107bbd1d042",
+            "w3a7afd7de4849cbb9df55d62d4e4de6"
+        ],
+        "kuid": "w997b1624b414c93949e069ef5068bdf",
+        "name": "Copychartist_hbar",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "w9a7f2a0bb394e9fab7820943f476eeb": {
+        "extension": "js",
+        "kuid": "w9a7f2a0bb394e9fab7820943f476eeb",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "w9c2e801115043bb9520ff1dae6dcdc6": {
+        "extension": "css",
+        "kuid": "w9c2e801115043bb9520ff1dae6dcdc6",
+        "name": "chartitst.css",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "wa0a46e0c206459f883442d7243f4274": {
+        "extension": "html",
+        "kuid": "wa0a46e0c206459f883442d7243f4274",
+        "name": "donut.html",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "waa30c429e3b4a4b848d0de0dab7c940": {
+        "extension": "js",
+        "kuid": "waa30c429e3b4a4b848d0de0dab7c940",
+        "name": "LIC.js",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wb1e93f3954e4209bbb025c3aa92846a": {
+        "children": [
+            "w83cb11ba4a843ae958bcfea98846c4a",
+            "we24c38f21e64ceeb2a1647344f7cd81",
+            "w749ec41b92b41fa9cd18f82c795a6d2",
+            "w93cc3d9450c42c3af1a1186813a49b5",
+            "wb7b79f1c3c94e78a6e1b7fe8fbd635b",
+            "wdcb7f43509645f1804a05dbd0207872"
+        ],
+        "kuid": "wb1e93f3954e4209bbb025c3aa92846a",
+        "name": "Copychartist_hbar1",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "wb3bd4468ec94018adcf70a64c1ee100": {
+        "extension": "css",
+        "kuid": "wb3bd4468ec94018adcf70a64c1ee100",
+        "name": "chartitst.css",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "wb7b79f1c3c94e78a6e1b7fe8fbd635b": {
+        "extension": "js",
+        "kuid": "wb7b79f1c3c94e78a6e1b7fe8fbd635b",
+        "name": "chartist_HorizontalBar.js",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "wbe52ffa48dc41edbf7e4c66601435fb": {
+        "children": [
+            "w099a0c3d7c1427a8400df8c1ef6244d",
+            "w1dacdb8c29644e1a00c0f437661ecc9",
+            "wd85ebc95e4d476895b160638ceade99",
+            "wb3bd4468ec94018adcf70a64c1ee100",
+            "w745156c329d45459ba3f45d7668de01",
+            "wcd3b88b79854167959a5fd65a5359ea"
+        ],
+        "kuid": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "name": "Chart_vertical",
+        "parent": "w11130ca99ae436b8d8477d42fee990c",
+        "type": "D"
+    },
+    "wbf07ba9ca4943c0bfcbc8c31e500d55": {
+        "extension": "js",
+        "kuid": "wbf07ba9ca4943c0bfcbc8c31e500d55",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wc4997e45a9649d99224316cbe8c8f12": {
+        "extension": "js",
+        "kuid": "wc4997e45a9649d99224316cbe8c8f12",
+        "name": "LIC.js",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "wc6048280fc84a8db37055d2f945ed8e": {
+        "extension": "html",
+        "kuid": "wc6048280fc84a8db37055d2f945ed8e",
+        "name": "donut.html",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wc8a588c58ea46239b6c8a77575a5ca5": {
+        "extension": "css",
+        "kuid": "wc8a588c58ea46239b6c8a77575a5ca5",
+        "name": "chartistCss.css",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "wca685705f0d445caeee00495c642e13": {
+        "extension": "js",
+        "kuid": "wca685705f0d445caeee00495c642e13",
+        "name": "chartist.js",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wcd3b88b79854167959a5fd65a5359ea": {
+        "extension": "html",
+        "kuid": "wcd3b88b79854167959a5fd65a5359ea",
+        "name": "verticalBarChartist.html",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "wcd5773a720e4c2aa763a869d73c3642": {
+        "extension": "js",
+        "kuid": "wcd5773a720e4c2aa763a869d73c3642",
+        "name": "chartist.js",
+        "parent": "w3c93ed3b22941059e45231c78639a49",
+        "type": "F"
+    },
+    "wd477fddbbcd4825b31e26cc986b0df8": {
+        "extension": "css",
+        "kuid": "wd477fddbbcd4825b31e26cc986b0df8",
+        "name": "chartitst.css",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wd4fa1923f2241cda7e3498d1371d1c2": {
+        "extension": "js",
+        "kuid": "wd4fa1923f2241cda7e3498d1371d1c2",
+        "name": "chartistlegend.js",
+        "parent": "w70104461d064c46821326a666e00ee7",
+        "type": "F"
+    },
+    "wd85ebc95e4d476895b160638ceade99": {
+        "extension": "js",
+        "kuid": "wd85ebc95e4d476895b160638ceade99",
+        "name": "chartist_VerticalBar.js",
+        "parent": "wbe52ffa48dc41edbf7e4c66601435fb",
+        "type": "F"
+    },
+    "wda3857d06b3462ea3dac2cef72fe0b3": {
+        "extension": "js",
+        "kuid": "wda3857d06b3462ea3dac2cef72fe0b3",
+        "name": "chartist.js",
+        "parent": "w997b1624b414c93949e069ef5068bdf",
+        "type": "F"
+    },
+    "wdab041d306740cdbbdb966b3db5d32f": {
+        "extension": "js",
+        "kuid": "wdab041d306740cdbbdb966b3db5d32f",
+        "name": "chartistlegend.js",
+        "parent": "w0b70931285a47189dfa19b8fd474711",
+        "type": "F"
+    },
+    "wdcb7f43509645f1804a05dbd0207872": {
+        "extension": "html",
+        "kuid": "wdcb7f43509645f1804a05dbd0207872",
+        "name": "horizontalBar.html",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "wde4eb91fe4d454fb03625b04446a027": {
+        "extension": "js",
+        "kuid": "wde4eb91fe4d454fb03625b04446a027",
+        "name": "chartist_HorizontalBar.js",
+        "parent": "w380ba55bda448958d6bc0e12928801a",
+        "type": "F"
+    },
+    "we147d5bac5f4380b35b2abdaaf8dddd": {
+        "extension": "js",
+        "kuid": "we147d5bac5f4380b35b2abdaaf8dddd",
+        "name": "donut_chartist.js",
+        "parent": "w6b73bf07615471abe0c7305ab22bc29",
+        "type": "F"
+    },
+    "we24c38f21e64ceeb2a1647344f7cd81": {
+        "extension": "js",
+        "kuid": "we24c38f21e64ceeb2a1647344f7cd81",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "wb1e93f3954e4209bbb025c3aa92846a",
+        "type": "F"
+    },
+    "wf56344aacd24ea29337056edcaa0ee1": {
+        "extension": "js",
+        "kuid": "wf56344aacd24ea29337056edcaa0ee1",
+        "name": "LIC.js",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    },
+    "wf78e4f33cb246adb410a3c35633633a": {
+        "extension": "css",
+        "kuid": "wf78e4f33cb246adb410a3c35633633a",
+        "name": "chartistCss.css",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    },
+    "wfb83ed0fda5498caee1f5724332157d": {
+        "extension": "js",
+        "kuid": "wfb83ed0fda5498caee1f5724332157d",
+        "name": "chartist.js",
+        "parent": "w353dd57bbea4fc09a387e3117b1071b",
+        "type": "F"
+    }
+}

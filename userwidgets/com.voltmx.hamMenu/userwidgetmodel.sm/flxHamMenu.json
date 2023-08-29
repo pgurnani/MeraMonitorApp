@@ -1,0 +1,85 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_skin_": "sb73be57705f4084bef0d2ea57b13dcf",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "flxClose",
+        "segMenu"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "width": {
+            "type": "string",
+            "value": "40%"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxHamMenu",
+    "info": null,
+    "ipad": {
+        "width": {
+            "type": "string",
+            "value": "50%"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u1f894b635a14eff843a2cf2e980c292",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMenuTrans",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "tabrcandroid": {
+        "width": {
+            "type": "string",
+            "value": "50%"
+        }
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

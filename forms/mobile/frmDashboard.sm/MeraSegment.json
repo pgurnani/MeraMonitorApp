@@ -1,0 +1,291 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        [
+            {
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Report"
+                }
+            },
+            [
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Time Tracker"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Time Tracker"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "System Activity"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "System Activity"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Productivity vs Idle"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Productivity vs Idle"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Web & Apps"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Web & Apps"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Attendance"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Attendance"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Timeline"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Timeline"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Screenshot"
+                }
+            },
+            [
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Time Claim"
+                }
+            },
+            [
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Claim"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Claim"
+                    }
+                },
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Status"
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Status"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "lblHeading": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Holiday"
+                }
+            },
+            [
+                {
+                    "Button0d574fe133b314a": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMore0jbe56f1ebb9e41": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    },
+                    "lblMoreIcon0b39690063abe47": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "30",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "i0b7b47a7bd941d4b869b06cb5538a8e",
+    "groupcells": false,
+    "hasSections": true,
+    "id": "MeraSegment",
+    "ide_onRowClick": "AS_Segment_ef74fbff72834f04b192ecfdc033d74a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f57c22cabc2d4b349977e8f1e255f2d1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flexMeraMenu",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ef67882319e34911ad3db21a4fc0d487",
+    "rowcounter": 0,
+    "rowfocusskin": "s8dd4029d6d54eeb8af654c067cd5056",
+    "rowskin": "s4ad481b098e4896885fe8cc3b874f7e",
+    "rowtemplate": "Flex0e9b7c834b29849",
+    "screenlevelwidget": false,
+    "seccounter": 3,
+    "sectionHeaderTemplateId": "e0db0cab61664d3bbf3553e8158d1bb8",
+    "sectionheaderskin": "s73b5a066ade4414a79debe638b28532",
+    "sectionheadertemplate": "flxSectionHeaderTemplate",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Button0d574fe133b314a": "Button0d574fe133b314a",
+        "Flex0e9b7c834b29849": "Flex0e9b7c834b29849",
+        "flxMore0g9fbb940b85c4d": "flxMore0g9fbb940b85c4d",
+        "flxSectionHeaderTemplate": "flxSectionHeaderTemplate",
+        "lblHeading": "lblHeading",
+        "lblMore0jbe56f1ebb9e41": "lblMore0jbe56f1ebb9e41",
+        "lblMoreIcon0b39690063abe47": "lblMoreIcon0b39690063abe47",
+        "mainContainer0a4525427f9af47": "mainContainer0a4525427f9af47",
+        "rightContainer0dcea3dbd7aad41": "rightContainer0dcea3dbd7aad41",
+        "swipeContainer0c55623521fbd4e": "swipeContainer0c55623521fbd4e"
+    }
+}

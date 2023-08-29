@@ -1,0 +1,195 @@
+{
+    "classname": "hamMenu",
+    "definitions": {
+        "apis": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "b71d5db7e7dd4b86a4262c44b3abe83d",
+                    "paramList": [
+                        {
+                            "name": "isVisible"
+                        }
+                    ],
+                    "propertyKey": "setMenuVisibility",
+                    "pw": {
+                        "displayName": "setMenuVisibility",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uc6806cc43e246dfa74daac731d149a3",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "b26368b96ef14ecdb87a301036d32214",
+                    "paramList": [
+                        {
+                            "name": "rowNumber"
+                        }
+                    ],
+                    "propertyKey": "onSegMenuRowClick",
+                    "pw": {
+                        "displayName": "onSegMenuRowClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uc6806cc43e246dfa74daac731d149a3",
+                    "type": "event"
+                },
+                {
+                    "group": "General",
+                    "kuid": "i6e4b4c4ad6042fea92fbbf4259199f0",
+                    "paramList": [
+                        {
+                            "name": "data"
+                        }
+                    ],
+                    "propertyKey": "setData",
+                    "pw": {
+                        "displayName": "setData",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uc6806cc43e246dfa74daac731d149a3",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [
+                {
+                    "group": "General",
+                    "kuid": "jf935abf46be4dccae5d43cbca1e614e",
+                    "paramList": [],
+                    "propertyIndex": 1,
+                    "propertyKey": "onMenuItemClick",
+                    "pw": {
+                        "displayName": "onMenuItemClick",
+                        "uiRepresentation": "Label-Label-Button-Button"
+                    },
+                    "srcWgtKUID": "uc6806cc43e246dfa74daac731d149a3",
+                    "type": "event"
+                }
+            ],
+            "passthrough": []
+        },
+        "groups": {
+            "apis": [
+                "General"
+            ],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "eb4c6cc9e2824212a0273a02a207db04",
+                    "originalPropertyKey": "width",
+                    "propertyIndex": 1,
+                    "propertyKey": "flxHamMenuWidth",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "look",
+                        "defaultValue": {
+                            "type": "string",
+                            "value": ""
+                        },
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Hamburger Menu Width",
+                        "forkablePlatforms": {
+                            "desktop": [
+                                "desktopweb",
+                                "kiosk"
+                            ],
+                            "mobile": [
+                                "iphone",
+                                "android",
+                                "winphone8",
+                                "spaip",
+                                "spaan",
+                                "spawinphone8"
+                            ],
+                            "tablet": [
+                                "ipad",
+                                "android",
+                                "windows8",
+                                "spaipad",
+                                "spaandroidtablet",
+                                "spawindowstablet"
+                            ]
+                        },
+                        "isHiddenInTool": false,
+                        "srcWidget": "flxHamMenu",
+                        "type": "object",
+                        "uiConfig": {
+                            "Combobox": {
+                                "masterData": [
+                                    [
+                                        "Dp",
+                                        "dp"
+                                    ],
+                                    [
+                                        "Px",
+                                        "px"
+                                    ],
+                                    [
+                                        "%",
+                                        "%"
+                                    ],
+                                    [
+                                        "Default",
+                                        "Default"
+                                    ],
+                                    [
+                                        "Preferred",
+                                        "preferred"
+                                    ]
+                                ]
+                            },
+                            "Label": {},
+                            "Textbox": {}
+                        },
+                        "uiRepresentation": "Label-Textbox-Combobox",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "u1f894b635a14eff843a2cf2e980c292"
+                },
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "e9b4e65df17649aea0fa1b6a334849ba",
+                    "originalPropertyKey": "skin",
+                    "propertyIndex": 2,
+                    "propertyKey": "flxHamMenuskin",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "skin",
+                        "dependencyConditions": {},
+                        "dependentKeysKUIDs": null,
+                        "displayName": "Hamburger Menu Skin",
+                        "isHiddenInTool": false,
+                        "srcWidget": "flxHamMenu",
+                        "wType": "FlexContainer"
+                    },
+                    "srcWgtKUID": "u1f894b635a14eff843a2cf2e980c292"
+                }
+            ]
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "eb4280b885bf4b9286a12cc8276aabfe",
+                    "propertyKey": "flxHamMenu",
+                    "srcWgtKUID": "u1f894b635a14eff843a2cf2e980c292"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "com.voltmx",
+    "version": "1.2.2"
+}

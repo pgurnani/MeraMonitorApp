@@ -1,0 +1,68 @@
+{
+    "splashScreen": {
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        },
+        "mobile": {
+            "android": {
+                "animationDuration": 3
+            },
+            "iphone": {
+                "splashConfig": {
+                    "_skin_": "sf45bb86143045bd974cce005f5171b2",
+                    "children": [
+                        {
+                            "isvisible": true,
+                            "kuid": "a8fea0b308c74585b1a92a55ba7cd6a4",
+                            "id": "Image0e7fce2caab2748",
+                            "_left_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_top_": {
+                                "type": "string",
+                                "value": "0dp"
+                            },
+                            "_width_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "_height_": {
+                                "type": "string",
+                                "value": "100%"
+                            },
+                            "wType": "Image",
+                            "_src_": "mobilsplash.png",
+                            "contentmode": 0,
+                            "UIElementType": "Image"
+                        }
+                    ]
+                },
+                "animationDuration": 5
+            },
+            "spa": {},
+            "spaan": {},
+            "spaip": {},
+            "spawinphone8": {},
+            "winphone10": {},
+            "winphone8": {},
+            "splashImage": "mobilsplash.png"
+        },
+        "tablet": {
+            "android": {},
+            "ipad": {
+                "landscape": {},
+                "splashConfig": {
+                    "_skin_": "sf45bb86143045bd974cce005f5171b2",
+                    "children": []
+                }
+            },
+            "spa": {},
+            "spaandroidtablet": {},
+            "spaipad": {},
+            "spawindowstablet": {},
+            "windows8": {}
+        }
+    }
+}

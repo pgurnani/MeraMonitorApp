@@ -1,0 +1,102 @@
+{
+    "models": {
+        "desktop": {
+            "default": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [
+                    {
+                        "actionId": "NAVIGATE_TO_FORM__fa727f814140406084df825750770512",
+                        "actionSequenceId": "AS_Button_c1467138bc13497cae85ff9a9ef8cde5",
+                        "beautifiedPath": "frmUserLogin > btnSignin > onClick",
+                        "evt": "ide_onClick",
+                        "from": "e08be2aba410419bbe16c7993678ce50",
+                        "isPSP": false,
+                        "points": [
+                            358,
+                            264.845263671875,
+                            358,
+                            254.845263671875,
+                            358,
+                            252,
+                            358,
+                            252,
+                            358,
+                            116.845263671875,
+                            278,
+                            116.845263671875,
+                            268,
+                            116.845263671875
+                        ],
+                        "to": "c91b932f937e437c92881ff9d93c3d34",
+                        "widgetKUID": "eb62ba7d1bf049b6a230553846551a10"
+                    }
+                ],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "c91b932f937e437c92881ff9d93c3d34",
+                        "formName": "frmDashboard",
+                        "isStartupForm": false,
+                        "key": "c91b932f937e437c92881ff9d93c3d34",
+                        "loc": "8 24.845263671875003",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "e08be2aba410419bbe16c7993678ce50",
+                        "formName": "frmUserLogin",
+                        "isStartupForm": true,
+                        "key": "e08be2aba410419bbe16c7993678ce50",
+                        "loc": "228 264.845263671875",
+                        "thumbnailURL": "/assets/MeraMonitorAppDem/forms/desktop/frmUserLogin.sm/.thumbs/default.jpeg"
+                    }
+                ]
+            }
+        },
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__a2bba1c2f5214f5a914f0e5dba7c6d49",
+                    "actionSequenceId": "AS_Button_fb447bb15d3148e69d00336ce2bb8e3e",
+                    "beautifiedPath": "frmLogin > ACMELogin > btnLogin > onClick",
+                    "evt": "ide_onClick",
+                    "from": "ga5c7b469c714017a29c7fd6fb8eb560",
+                    "isPSP": false,
+                    "points": [
+                        183.2,
+                        194.445263671875,
+                        193.2,
+                        194.445263671875,
+                        196,
+                        194.445263671875,
+                        196,
+                        394.44526367187495,
+                        218,
+                        394.44526367187495,
+                        228,
+                        394.44526367187495
+                    ],
+                    "to": "j45d12673c5a49fd8d859e5e00ae2da8",
+                    "widgetKUID": "fcf9f1eda1654b149158dd2e5f4e9cc1"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "j45d12673c5a49fd8d859e5e00ae2da8",
+                    "formName": "frmDashboard",
+                    "isStartupForm": false,
+                    "key": "j45d12673c5a49fd8d859e5e00ae2da8",
+                    "loc": "228 224.845263671875",
+                    "thumbnailURL": "/assets/MeraMonitorAppDem/forms/mobile/frmDashboard.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "ga5c7b469c714017a29c7fd6fb8eb560",
+                    "formName": "frmLogin",
+                    "isStartupForm": true,
+                    "key": "ga5c7b469c714017a29c7fd6fb8eb560",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/MeraMonitorAppDem/forms/mobile/frmLogin.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}

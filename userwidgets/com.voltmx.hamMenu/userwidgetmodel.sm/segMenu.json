@@ -1,0 +1,230 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "03",
+    "desktop": {
+        "_data_": [
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Home"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Accounts"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Contacts"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Users"
+                }
+            }
+        ],
+        "rowTemplateId": "f3ee501af3504ce0ad8cbe7af1e315c9",
+        "rowtemplate": "flxkonympssmmenuitemtempdw",
+        "sectionHeaderTemplateId": null,
+        "widgetdatamap": {
+            "flxvoltmxmmenuitemtempdw": "flxvoltmxmmenuitemtempdw",
+            "lblMenuItem": "lblMenuItem"
+        }
+    },
+    "desktopweb": {
+        "top": {
+            "type": "string",
+            "value": "22%"
+        }
+    },
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {},
+    "id": "segMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "editStyle": "none",
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u345e573444643f1b615b1295893912c",
+    "masterdata": {},
+    "mobile": {
+        "_data_": [
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Home"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "About"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Contact"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Products"
+                }
+            }
+        ],
+        "rowTemplateId": "g4c75b2595e04fe6a09cd7265421e57c",
+        "rowtemplate": "flxKonyMpssmmenuitem",
+        "sectionHeaderTemplateId": null,
+        "widgetdatamap": {
+            "flxvoltmxssmmenuitem": "flxvoltmxssmmenuitem",
+            "lblMenuItem": "lblMenuItem"
+        }
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxHamMenu",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": null,
+    "rowcounter": 3,
+    "rowfocusskin": "s8dd4029d6d54eeb8af654c067cd5056",
+    "rowskin": "s4543a9c365b4f75a8da657585ba7aab",
+    "rowtemplate": "CopyflxKonyMpssmmenuitem",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s73b5a066ade4414a79debe638b28532",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": false,
+    "separatorthickness": 1,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "tablet": {
+        "_data_": [
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Home"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "About"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Contact"
+                }
+            },
+            {
+                "lblMenuItem": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Products"
+                }
+            }
+        ],
+        "rowTemplateId": "f300aa8c2e784d149fb82c2f417630fa",
+        "rowtemplate": "CopyflxKonyMpssmmenuitem0bed4bbe8364340",
+        "widgetdatamap": {
+            "Copyflxvoltmxssmmenuitem0bed4bbe8364340": "Copyflxvoltmxssmmenuitem0bed4bbe8364340",
+            "lblMenuItem": "lblMenuItem"
+        }
+    },
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxkonympssmmenuitemtempdw": "flxkonympssmmenuitemtempdw",
+        "imgMenuItem": "imgMenuItem",
+        "lblMenuItem": "lblMenuItem"
+    },
+    "zindex": 1
+}

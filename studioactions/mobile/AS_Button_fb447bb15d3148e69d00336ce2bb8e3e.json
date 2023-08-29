@@ -1,0 +1,179 @@
+{
+    "AS_Button_fb447bb15d3148e69d00336ce2bb8e3e": {
+        "id": "AS_Button_fb447bb15d3148e69d00336ce2bb8e3e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ga5c7b469c714017a29c7fd6fb8eb560"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a2bba1c2f5214f5a914f0e5dba7c6d49",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboard",
+            "formKUID": "j45d12673c5a49fd8d859e5e00ae2da8",
+            "projectName": "MeraMonitorAppDem",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "_IF_CONDITION_d54f4a31396b4a8ea12aa22dbfbfa013",
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }, {
+            "id": "LOADING_INDICATOR_e0a663004b0947e59658c15cf7f63a4f",
+            "selectedOption": "show",
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "INVOKE_ASYNC_SERVICE_ac0426f6354b4838acd7301c5b28b9d3",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": [{
+                "name": "Content-Type",
+                "value": "application/json"
+            }, {
+                "name": "",
+                "value": ""
+            }, {
+                "name": "",
+                "value": ""
+            }],
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {
+                "ME_Mapping_f8c189e2038445a89afa5ce3f0dea1ee": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_f8c189e2038445a89afa5ce3f0dea1ee",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "tbxUsername",
+                        "widgetPath": "this.view.ACMELogin.tbxUsername",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "frmLogin",
+                        "widgetKUID": "c2f34c7fe88941b79bddac485c735972",
+                        "itemKUID": "ga5c7b469c714017a29c7fd6fb8eb560",
+                        "forkedPlatform": "all",
+                        "instanceKUID": "e5a26bcdb2524cc68c1a2865897db3ed"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "email",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "MeraAuthentication",
+                            "type": "integration",
+                            "operationname": "login",
+                            "serviceid": "a099d6e9-8192-43ea-89c2-4143de08563b",
+                            "operationid": "323231"
+                        }
+                    }
+                },
+                "ME_Mapping_i30e30112bfd47f5ab8b9a0181eb788c": {
+                    "channel": "mobile",
+                    "id": "ME_Mapping_i30e30112bfd47f5ab8b9a0181eb788c",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "tbxPassword",
+                        "widgetPath": "this.view.ACMELogin.tbxPassword",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "frmLogin",
+                        "widgetKUID": "ce405ab0678349aba680bd1f0f629d5f",
+                        "itemKUID": "ga5c7b469c714017a29c7fd6fb8eb560",
+                        "forkedPlatform": "all",
+                        "instanceKUID": "e5a26bcdb2524cc68c1a2865897db3ed"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "password",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "MeraAuthentication",
+                            "type": "integration",
+                            "operationname": "login",
+                            "serviceid": "a099d6e9-8192-43ea-89c2-4143de08563b",
+                            "operationid": "323231"
+                        }
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_f8c189e2038445a89afa5ce3f0dea1ee", "ME_Mapping_i30e30112bfd47f5ab8b9a0181eb788c"],
+            "serviceconfig": {
+                "servicename": "MeraAuthentication",
+                "type": "integration",
+                "operationname": "login",
+                "serviceid": "a099d6e9-8192-43ea-89c2-4143de08563b",
+                "operationid": "323231"
+            },
+            "enableMappingEditor": true
+        }, {
+            "id": "LOADING_INDICATOR_a2b832a90e774618ae5405087eac77e1",
+            "selectedOption": "dismiss",
+            "parentId": "INVOKE_ASYNC_SERVICE_ac0426f6354b4838acd7301c5b28b9d3",
+            "type": "LOADING_INDICATOR",
+            "callbackType": "Callback",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "_IF_CONDITION_d54f4a31396b4a8ea12aa22dbfbfa013",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "login.success",
+                "rightValue": "true",
+                "leftValueType": "value",
+                "rightValueType": "value",
+                "operator": "==="
+            }],
+            "parentId": "INVOKE_ASYNC_SERVICE_ac0426f6354b4838acd7301c5b28b9d3",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_ELSE_CONDITION_gfc3dd1ca4c8499fbddf0f3b6e353b2c",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "parentId": "INVOKE_ASYNC_SERVICE_ac0426f6354b4838acd7301c5b28b9d3",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "SHOW_ALERT_ec0cbd9c9879486192b2efbeec678340",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Data fetch failed! Please try again later.",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "_ELSE_CONDITION_gfc3dd1ca4c8499fbddf0f3b6e353b2c",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

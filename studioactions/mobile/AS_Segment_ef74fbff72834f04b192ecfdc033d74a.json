@@ -1,0 +1,29 @@
+{
+    "AS_Segment_ef74fbff72834f04b192ecfdc033d74a": {
+        "id": "AS_Segment_ef74fbff72834f04b192ecfdc033d74a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j45d12673c5a49fd8d859e5e00ae2da8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_d6285cafed3c482ab9ee312031a69df2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "console.log(eventobject, sectionNumber, rowNumber);\nalert(sectionNumber)\nalert(rowNumber)\n",
+            "parentId": null
+        }]
+    }
+}

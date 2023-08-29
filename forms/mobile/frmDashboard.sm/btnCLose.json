@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "Default": {
+        "displayText": false
+    },
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s793a35d3ff145bd9b06e84fee1c336d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "android": {
+        "displayText": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "seeba8a6505642f8beaa155a1b4959d0",
+    "id": "btnCLose",
+    "ide_onClick": "AS_Button_edbf3d3258844adb9a6265d00abd6d06",
+    "info": null,
+    "iphone": {
+        "displayText": false
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb2ad8e70a784bfda4e35403c6042e44",
+    "name": "kony.ui.Button",
+    "parent": "flexMeraMenu",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spa": {
+        "displayText": false
+    },
+    "wType": "Button",
+    "winphone8": {
+        "displayText": false
+    }
+}

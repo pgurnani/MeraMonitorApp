@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7.30%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf02d0349bcb4b598faaa4dba6e198c6",
+    "_text_": "LOGIN WITH FACEBOOK",
+    "_top_": {
+        "type": "string",
+        "value": "73%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.78%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.01%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0abedbe5f9e4d5b817dfb9edf5fbb4e",
+    "id": "btnFacebookLogin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "u2a7bfe9df3a44c9ac79497659fedb64",
+    "name": "kony.ui.Button",
+    "parent": "flxLogin",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 3
+}

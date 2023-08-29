@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7a7252098c140f2876ec7f7da4d2bd6",
+    "_text_": "hbhbhb",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblContent",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ud630fce846a4d3d88c690e48792e798",
+    "name": "kony.ui.Label",
+    "parent": "flxImage",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "height": {
+                "type": "string",
+                "value": "30dp"
+            },
+            "skin": "sf75e6dede794628bcba9831b605f274"
+        },
+        "b2": {
+            "height": {
+                "type": "string",
+                "value": "30dp"
+            }
+        },
+        "b3": {
+            "centerX": {
+                "type": "string",
+                "value": "48%"
+            },
+            "height": {
+                "type": "string",
+                "value": "30dp"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "textstyle": {},
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

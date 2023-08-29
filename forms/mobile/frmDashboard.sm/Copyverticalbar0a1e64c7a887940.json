@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "chartTitle": "Productive Vs Idle",
+        "titleFontSize": "10"
+    },
+    "id": "Copyverticalbar0a1e64c7a887940",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d9a92f4d53654065b9e704603a85bc5e",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "CopyFlexContainer0bdee746b41e948",
+    "pf": "frmDashboard",
+    "sourceUserWidget": "u2b09c02c734498898492c979b905d64",
+    "wType": "UserWidgetInstance"
+}

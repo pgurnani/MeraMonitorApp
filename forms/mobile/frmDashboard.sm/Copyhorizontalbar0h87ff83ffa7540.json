@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s56898755a574467a0f91ace8f93a133",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "data": {
+        "chartTitle": "Time",
+        "titleFontSize": "10"
+    },
+    "id": "Copyhorizontalbar0h87ff83ffa7540",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c36965e54ae647f3a14b0f18b3e8b5c2",
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "CopyFlexContainer0b8f07accf5234f",
+    "pf": "frmDashboard",
+    "sourceUserWidget": "ud31fec51a6a4cd392967342eccfc11c",
+    "wType": "UserWidgetInstance"
+}

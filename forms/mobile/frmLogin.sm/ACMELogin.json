@@ -1,0 +1,262 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se225f286896401aaa1d4df2866b7dce",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ACMELogin": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e5a26bcdb2524cc68c1a2865897db3ed",
+                "srcKUID": "uc9c0717671b4f1583cb1f5190b825d2",
+                "wType": "FlexContainer"
+            }
+        },
+        "btnFacebookLogin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d2971aeb208c4b99b05072224d6daf8d",
+                "srcKUID": "u2a7bfe9df3a44c9ac79497659fedb64",
+                "wType": "Button"
+            }
+        },
+        "btnForgotPassword": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i78690dc63694b9381dd569e9c713b9f",
+                "srcKUID": "u16f8216db2449d7a584d02cf27197cd",
+                "wType": "Button"
+            }
+        },
+        "btnLogin": {
+            "__events__": {
+                "ide_onClick": "AS_Button_fb447bb15d3148e69d00336ce2bb8e3e"
+            },
+            "__info__": {
+                "kuid": "fcf9f1eda1654b149158dd2e5f4e9cc1",
+                "srcKUID": "u14989551e2a4afe974ca92e00f843ee",
+                "wType": "Button"
+            }
+        },
+        "btnSignUp": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j62a69867a4d47e3ad282acc10dea32b",
+                "srcKUID": "u93eb04656b84ff2a3d4d9bd81c41b86",
+                "wType": "Button"
+            }
+        },
+        "flxError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h046f582cc604440875b4eb2de5cab90",
+                "srcKUID": "u95f402e556341bb9559ffafaba47aa9",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxForgotPassword": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h25e4227181941c8a2b7379633f15831",
+                "srcKUID": "u0ab6452f75d42928aecefadcdec77ce",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxLogin": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g403b2fa38d84383b9aaa1525beeb0fe",
+                "srcKUID": "u3a18a46bd5b471481e591a56dd4a47b",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxRememberMe": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i637c072c1334db880729bf11611907c",
+                "srcKUID": "ucb2c67094f44c8784bd5f9e9893f521",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxSeparator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i402633ace2c465c9cc38ee204649c1b",
+                "srcKUID": "u245bd42c22340c9a6a211e8b9c32dd8",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgClose": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e202bbe1719c4ad897ad08c1f27619ba",
+                "srcKUID": "uee5284f734242f986a6116ba5216c7d",
+                "wType": "Image"
+            }
+        },
+        "imgLogo": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fa7fb3d09f9f465b94948db2db3faa9c",
+                "srcKUID": "u975f3489ac44e9c832ed9edb1d94acf",
+                "wType": "Image"
+            },
+            "src": "https://tim.aapnainfotech.com/media/icons/duotune/art/MeraMonitor.svg",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "7%"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "200dp"
+                }
+            }
+        },
+        "imgRememberme": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ic950c8710934e7995568817b550bc21",
+                "srcKUID": "u3405efeba96480ab41decad4035dd9d",
+                "wType": "Image"
+            }
+        },
+        "imgUnselected": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h3279630a7004371afff5be2eec134b7",
+                "srcKUID": "u83e772253194c489d010594be7429fe",
+                "wType": "Image"
+            }
+        },
+        "lblError": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce91d577917f41459e1f69d8e06656ad",
+                "srcKUID": "u359632b4e5040358f99bcd47a987261",
+                "wType": "Label"
+            }
+        },
+        "lblOR": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a4df5ebdc8f24286ac58210523fb7a17",
+                "srcKUID": "u65cafa6ee9e4c9f99e622ccde33cab7",
+                "wType": "Label"
+            }
+        },
+        "lblRememberMe": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g83b1bad248142cda455bded44ff24eb",
+                "srcKUID": "u1ff51b5fbd3487fba186e21752030bb",
+                "wType": "Label"
+            }
+        },
+        "lblSep1": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a27bb18fb62749e2bb5ae977e1d0176a",
+                "srcKUID": "uac4228067fe498da34191cfafb81398",
+                "wType": "Label"
+            }
+        },
+        "lblSep2": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hc0b4b78375c43b896b21a5558ceaa24",
+                "srcKUID": "u4e4b42a8fe94171ac2fd26b22947bb1",
+                "wType": "Label"
+            }
+        },
+        "lblSknHidden": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c8336d09b71047c3a04fb7f44180e034",
+                "srcKUID": "u81f465f48fe408caea1928fc61af5d3",
+                "wType": "Label"
+            }
+        },
+        "lblWelcome": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a0bdcfcf95c0431c9bceab92847aa450",
+                "srcKUID": "u5adbf1a67d642f2b66ff1c970b89c36",
+                "wType": "Label"
+            },
+            "text": ""
+        },
+        "tbxPassword": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ce405ab0678349aba680bd1f0f629d5f",
+                "srcKUID": "uc68cb50b1554b37ad089e0bae4d58f8",
+                "wType": "TextField"
+            }
+        },
+        "tbxUsername": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c2f34c7fe88941b79bddac485c735972",
+                "srcKUID": "u6675b40b8f44ef3aed0bd8f0e17a83b",
+                "wType": "TextField"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "ACMELogin",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e5a26bcdb2524cc68c1a2865897db3ed",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "uc9c0717671b4f1583cb1f5190b825d2",
+    "wType": "UserWidgetInstance"
+}

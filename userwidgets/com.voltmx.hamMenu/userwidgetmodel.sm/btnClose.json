@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa8047c04e434307bbdf5cb33abac8a9",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s637f0b305b249919ec0d454bd4a48a0",
+    "id": "btnClose",
+    "info": null,
+    "ipad": {
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        }
+    },
+    "iphone": {},
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u67d76beba1043fda2e0a6b99334c5be",
+    "name": "kony.ui.Button",
+    "parent": "flxClose",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {},
+        "b2": {}
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,33 @@
+{
+    "AS_Button_edbf3d3258844adb9a6265d00abd6d06": {
+        "id": "AS_Button_edbf3d3258844adb9a6265d00abd6d06",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j45d12673c5a49fd8d859e5e00ae2da8"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled__d6df722feab44edeaf6545c9a1cb5a05",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmDashboard",
+            "widgetId": "flexMeraMenu",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "j45d12673c5a49fd8d859e5e00ae2da8",
+            "widgetKUID": "e5b9f670ef8941719b7ba05846cbd922",
+            "isSkinProperty": false,
+            "wType": "FlexContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "widgetPath": "this.view.flexMeraMenu"
+        }]
+    }
+}

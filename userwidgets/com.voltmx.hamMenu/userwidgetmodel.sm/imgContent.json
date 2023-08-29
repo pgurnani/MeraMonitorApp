@@ -1,0 +1,120 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seee7ac6b2284f26a26282e8bf4623fa",
+    "_src_": "https://media-s3-us-east-1.ceros.com/hcl-software/images/2020/12/02/d3cefe28c6f5dc2ffb5ec327b178b165/volt-mx-2000px.png",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "40%"
+    },
+    "containerweight": 100,
+    "id": "imgContent",
+    "imagescalemode": 0,
+    "info": null,
+    "ipad": {
+        "height": {
+            "type": "string",
+            "value": "200dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "250dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ubec5eca0df94c7890c07b32ca909f4f",
+    "maxheight": {
+        "type": "number",
+        "value": ""
+    },
+    "name": "kony.ui.Image2",
+    "parent": "flxImage",
+    "pf": "userwidgetmodel",
+    "responsiveData": {
+        "b1": {
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "top": {
+                "type": "number",
+                "value": "0"
+            }
+        },
+        "b2": {
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "maxHeight": {
+                "type": "string",
+                "value": ""
+            },
+            "top": {
+                "type": "number",
+                "value": "0"
+            }
+        },
+        "b3": {
+            "left": {
+                "type": "number",
+                "value": "0"
+            },
+            "top": {
+                "type": "number",
+                "value": "0"
+            }
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "tabrcandroid": {
+        "height": {
+            "type": "string",
+            "value": "200dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "250dp"
+        }
+    },
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
